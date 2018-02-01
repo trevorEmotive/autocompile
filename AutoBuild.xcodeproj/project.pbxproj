@@ -278,7 +278,7 @@
 				DEVELOPMENT_TEAM = K5S65EZS9Z;
 				INFOPLIST_FILE = AutoBuild/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.emotive.CloudSign;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aukim.CloudSign;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = K5S65EZS9Z;
 				INFOPLIST_FILE = AutoBuild/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.emotive.CloudSign;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aukim.CloudSign;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
